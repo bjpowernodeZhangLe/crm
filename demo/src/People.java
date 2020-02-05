@@ -14,5 +14,9 @@ public class People {
 
     private String address;
 
+    private boolean flag;
+
+
+
 
 }
