@@ -8,4 +8,8 @@ public class People {
     private int age;
     private String iphone;
 
+    private double price;
+
+    
+
 }
