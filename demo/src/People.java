@@ -18,6 +18,8 @@ public class People {
 
 
     private char gender;
+    
+    p
 
 
 
